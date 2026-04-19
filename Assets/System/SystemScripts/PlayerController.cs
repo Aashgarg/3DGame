@@ -723,6 +723,8 @@ public class PlayerController : MonoBehaviour
         jumpsSinceGroundTouch = 0;
     }
 
+    
+
     void OnDrawGizmos()
     {
         // Draw line at deathHeight
